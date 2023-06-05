@@ -1,0 +1,16 @@
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\bin\Release\ApplicationTest.exe.config
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\bin\Release\ApplicationTest.exe
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\bin\Release\ApplicationTest.pdb
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\bin\Release\EasyModbus.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\bin\Release\LogicModule.Nodes.Helpers.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\bin\Release\LogicNodesModbusHelper.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\bin\Release\LogicNodesModbusHelper.pdb
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\bin\Release\LogicNodesModbusHelper.dll.config
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\bin\Release\EasyModbus.xml
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\bin\Release\LogicModule.Nodes.Helpers.xml
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\obj\Release\ApplicationTest.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\obj\Release\ApplicationTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\obj\Release\ApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\obj\Release\ApplicationTest.csproj.CopyComplete
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\obj\Release\ApplicationTest.exe
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ApplicationTest\obj\Release\ApplicationTest.pdb

@@ -1,0 +1,32 @@
+﻿{
+  "PackageFormatVersion": "1.0",
+  "Assembly": "marcus_brock_mbrock_eu.logic.NibeModbusClientNode.dll",
+  "DependentFiles": [
+    "LogicModule.Nodes.Helpers.dll",
+    "EasyModbus.dll",
+    "LogicNodesModbusHelper.dll"
+  ],
+  "Version": "0.0.1",
+  "Author": "Marcus Brock",
+  "Copyright": "Marcus Brock",
+  "DeveloperId": "marcus_brock_mbrock_eu",
+  "License": "Free",
+  "PackageId": "F2330AA0-51CA-4DF6-A5AE-4BE269B9FE13",
+  "Nodes": [
+    {
+      "Type": "marcus_brock_mbrock_eu.logic.NibeModbusClientNode",
+      "Name": {
+        "en": "Query NIbe VVM S320",
+        "de": "Nibe VVM S320  auslesen"
+      },
+      "IsConverter": false,
+      "Category": "Node",
+      "DefaultIcon": "icons/GenericLogicNode.png",
+      "HelpTooltip": {
+        "en": "Query values from Nibe heatpump.",
+        "de": "Nibe Wärmepumpe auslesen."
+      },
+      "HelpFileReference": null
+    }
+  ]
+}

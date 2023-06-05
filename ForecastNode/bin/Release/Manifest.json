@@ -1,0 +1,30 @@
+﻿{
+  "PackageFormatVersion": "1.0",
+  "Assembly": "marcus_brock_mbrock_eu.logic.Forecast.dll",
+  "DependentFiles": [
+    "LogicModule.Nodes.Helpers.dll"
+  ],
+  "Version": "0.0.1",
+  "Author": "Marcus Brock",
+  "Copyright": "Marcus Brock",
+  "DeveloperId": "marcus_brock_mbrock_eu",
+  "License": "Free",
+  "PackageId": "F2330AA0-51CA-4DF6-A5AE-4BE269B9FE13",
+  "Nodes": [
+    {
+      "Type": "marcus_brock_mbrock_eu.logic.ForecastNode.Forecast",
+      "Name": {
+        "en": "Check Sun forecast",
+        "de": "Forecast API auslesen"
+      },
+      "IsConverter": false,
+      "Category": "Node",
+      "DefaultIcon": "icons/GenericLogicNode.png",
+      "HelpTooltip": {
+        "en": "Query values from Huawei Inverter.",
+        "de": "Huawei Wechselrichter auslesen."
+      },
+      "HelpFileReference": null
+    }
+  ]
+}

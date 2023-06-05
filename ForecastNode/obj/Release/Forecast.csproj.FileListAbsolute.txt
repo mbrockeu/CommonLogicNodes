@@ -1,0 +1,12 @@
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\obj\Release\Forecast.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\obj\Release\Forecast.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\bin\Release\Manifest.json
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\bin\Release\marcus_brock_mbrock_eu.logic.Forecast.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\bin\Release\marcus_brock_mbrock_eu.logic.Forecast.pdb
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\bin\Release\LogicModule.Nodes.Helpers.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\bin\Release\LogicModule.ObjectModel.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\bin\Release\LogicModule.Nodes.Helpers.xml
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\bin\Release\LogicModule.ObjectModel.xml
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\obj\Release\Forecast.csproj.CopyComplete
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\obj\Release\marcus_brock_mbrock_eu.logic.Forecast.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\ForecastNode\obj\Release\marcus_brock_mbrock_eu.logic.Forecast.pdb

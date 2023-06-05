@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HuaweiModbusConsoleTest/1.0.0": {
+        "dependencies": {
+          "EasyModbusTCP": "5.6.0",
+          "HuaweiModbus": "1.0.0"
+        },
+        "runtime": {
+          "HuaweiModbusConsoleTest.dll": {}
+        }
+      },
+      "EasyModbusTCP/5.6.0": {
+        "runtime": {
+          "lib/net40/EasyModbus.dll": {
+            "assemblyVersion": "5.6.0.0",
+            "fileVersion": "5.6.0.0"
+          }
+        }
+      },
+      "HuaweiModbus/1.0.0": {
+        "runtime": {
+          "marcus_brock_mbrock_eu.logic.HuaweiModbus.dll": {}
+        }
+      },
+      "LogicModule.Nodes.Helpers/1.2.95.0": {
+        "runtime": {
+          "LogicModule.Nodes.Helpers.dll": {
+            "assemblyVersion": "1.2.95.0",
+            "fileVersion": "1.2.95.0"
+          }
+        }
+      },
+      "LogicModule.ObjectModel/1.0.0.0": {
+        "runtime": {
+          "LogicModule.ObjectModel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.246.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HuaweiModbusConsoleTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EasyModbusTCP/5.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2a5a9smmIu0Tq5zdwMvgO+WDvUgH0JuNv/crAILrDKcNRb8P/AOx9PEyegBiMn1TGXLP3byu0zhsSSUrrVyyXw==",
+      "path": "easymodbustcp/5.6.0",
+      "hashPath": "easymodbustcp.5.6.0.nupkg.sha512"
+    },
+    "HuaweiModbus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicModule.Nodes.Helpers/1.2.95.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicModule.ObjectModel/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\bin\Debug\LogicNodesModbusHelper.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\bin\Debug\LogicNodesModbusHelper.pdb
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\bin\Debug\EasyModbus.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\bin\Debug\LogicModule.Nodes.Helpers.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\bin\Debug\LogicModule.ObjectModel.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\bin\Debug\EasyModbus.xml
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\bin\Debug\LogicModule.Nodes.Helpers.xml
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\bin\Debug\LogicModule.ObjectModel.xml
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\obj\Debug\LogicNodesModbusHelper.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\obj\Debug\LogicNodesModbusHelper.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\obj\Debug\LogicNodesModbusHelper.csproj.CopyComplete
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\obj\Debug\LogicNodesModbusHelper.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\LogicNodesModbusHelper\obj\Debug\LogicNodesModbusHelper.pdb

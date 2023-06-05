@@ -1,0 +1,16 @@
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\bin\Debug\Manifest.json
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\bin\Debug\marcus_brock_mbrock_eu.logic.NibeModbusClientNode.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\bin\Debug\marcus_brock_mbrock_eu.logic.NibeModbusClientNode.pdb
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\bin\Debug\EasyModbus.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\bin\Debug\LogicModule.Nodes.Helpers.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\bin\Debug\LogicModule.ObjectModel.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\bin\Debug\LogicNodesModbusHelper.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\bin\Debug\LogicNodesModbusHelper.pdb
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\bin\Debug\EasyModbus.xml
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\bin\Debug\LogicModule.Nodes.Helpers.xml
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\bin\Debug\LogicModule.ObjectModel.xml
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\obj\Debug\NibeModbus.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\obj\Debug\NibeModbus.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\obj\Debug\NibeModbus.csproj.CopyComplete
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\obj\Debug\marcus_brock_mbrock_eu.logic.NibeModbusClientNode.dll
+C:\Users\marcu\source\repos\mbrockeu\CommonLogicNodes\NibeModbus\obj\Debug\marcus_brock_mbrock_eu.logic.NibeModbusClientNode.pdb
